@@ -1,5 +1,4 @@
 # pokemon
-# client
 
 ## Build Setup
 
